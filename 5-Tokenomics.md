@@ -10,16 +10,7 @@ To bootstrap ecosystem growth, ASSETRA employs a phased distribution model: init
 
 ## Roadmap
 
-- **Phase 1:** Platform launch, core smart contracts, and initial token issuance.  
-- **Phase 2:** SDK release, oracle integrations, and NFT agent marketplace.  
-- **Phase 3:** Enterprise compliance modules, cross-chain support, and mobile dashboard.  
-- **Phase 4:** Advanced governance features, revenue-sharing vaults, and global partnerships.
-
-```mermaid
-graph TD
-    Init[Phase 1]
-    SDK[Phase 2]
-    Compliance[Phase 3]
-    Governance[Phase 4]
-    Init --> SDK --> Compliance --> Governance
-```
+* **Phase 1:** Platform launch, core smart contracts, and initial token issuance.
+* **Phase 2:** SDK release, oracle integrations, and NFT agent marketplace.
+* **Phase 3:** Enterprise compliance modules, cross-chain support, and mobile dashboard.
+* **Phase 4:** Advanced governance features, revenue-sharing vaults, and global partnerships.
