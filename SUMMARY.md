@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [ASSETRA](README.md)
 * [Introduction](1-Introduction.md)
 * [Core Concepts](2-Core-Concepts.md)
   * [Tokenization of AI Agents](2-Core-Concepts.md#tokenization-of-ai-agents)
