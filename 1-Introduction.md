@@ -11,20 +11,3 @@ Key value propositions include:
 This paradigm shift redefines digital ownership, allowing founders to raise capital directly against algorithmic performance and enabling enterprises to democratize access to productivity tools. ASSETRA bridges the gap between autonomous digital workflows and traditional finance, laying the foundation for a new asset class where code meets capital.
 
 With ASSETRA, developers can seamlessly mint tokens representing AI workflows, investors gain diversified exposure to algorithmic performance, and enterprises unlock new revenue models by fractionalizing digital services. This documentation will guide you through the conceptual foundations, technological architecture, use cases, and tokenomics driving the ASSETRA ecosystem.
-
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "background": "#0C090F", // Общий фон
-    "nodeTextColor": "#000000", // Текст в узлах
-    "nodeBorder": "#000000", // Границы узлов
-    "edgeLabelBackground": "#FFFFFF", // Фон подписей стрелок
-    "tertiaryColor": "#FFFFFF" // Доп. элементы
-  }
-}}%%
-flowchart LR
-    A[AI Agent] --> B(Tokenization)
-    B --> C[On-Chain Asset]
-    C --> D[Community Governance]
-```

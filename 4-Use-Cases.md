@@ -11,11 +11,3 @@ By tokenizing predictive trading algorithms, investors gain fractional exposure 
 ## Workflow Automation Tokens
 
 Complex automation pipelines—such as invoice processing, data ETL, or supply-chain triggers—become tokenized assets that enterprises and freelancers can invest in collaboratively. Tokens grant execution rights and revenue shares, aligning incentives between developers and end-users. As pipelines evolve, stakeholders vote on enhancements through governance proposals, fueling continuous improvement in operational efficiency.
-
-```mermaid
-flowchart LR
-    Chatbot --> Token
-    Algorithm --> Token
-    Workflow --> Token
-    Token --> Market
-```

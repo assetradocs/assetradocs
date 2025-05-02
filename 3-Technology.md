@@ -11,14 +11,3 @@ At its core, ASSETRA utilizes modular smart contracts to manage agent registrati
 ## Security & Compliance
 
 Security is paramount; all contracts undergo rigorous audits by leading firms and are continuously monitored via on-chain alerts. Enterprises can enable **KYC/AML** modules that gate token transfers, ensuring only verified participants engage with high-value assets. Compliance layers support role-based access, upgradeability restrictions, and configurable pause functions to respond to emergent risks. A multi-signature treasury further secures collected funds and fee distributions.
-
-```mermaid
-sequenceDiagram
-    participant D as Developer
-    participant C as Contract
-    participant B as Blockchain
-    D->>C: Register agent metadata
-    C->>B: Mint token
-    B->>C: Record transfer
-    C->>D: Distribute revenue
-```
