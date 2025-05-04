@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Introduction](1-Introduction.md)
+* [Introduction](README.md)
   * [The Paradigm Shift](1.1-The-Paradigm-Shift.md)
   * [About the Project](1.2-About-the-Project.md)
   * [Why Solana?](1.3-Why-Solana.md)
